@@ -1,7 +1,29 @@
-# GitHub Final Project
+# Simple Interest Calculator
 
-Proyecto realizado para el laboratorio de Git y GitHub de IBM.
+A simple Bash script to calculate simple interest.
 
-## Descripción
+This project was created as part of the Git and GitHub final project.
 
-Este proyecto contiene la práctica del curso Introduction to Git and GitHub.
+## Formula
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+## Input
+
+The script accepts the following input:
+
+- Principal amount
+- Annual rate of interest
+- Time (in years)
+
+## Output
+
+The script calculates and displays the simple interest.
+
+## Example
+
+Principal: 1000
+Rate: 5
+Time: 2
+
+Simple Interest = 100

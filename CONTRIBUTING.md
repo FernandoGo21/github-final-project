@@ -2,21 +2,13 @@
 
 Thank you for considering contributing to this project!
 
-## How to Contribute
+We welcome:
 
-All contributions are welcome, including:
-
+- All contributions
 - Bug reports
 - Bug fixes
 - Documentation improvements
-- Feature enhancements
-- New ideas
+- Enhancements
+- Ideas
 
-## Contribution Process
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Submit a Pull Request.
-
-We appreciate your contributions!
+Please fork the repository, create a feature branch, commit your changes, and submit a pull request.
